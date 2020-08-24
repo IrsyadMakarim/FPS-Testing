@@ -3,7 +3,6 @@
 [ext_resource path="res://Scene/Zombie.gd" type="Script" id=1]
 [ext_resource path="res://Sprite/Monster.png" type="Texture" id=2]
 
-
 [sub_resource type="CapsuleShape" id=1]
 
 [sub_resource type="Animation" id=2]
